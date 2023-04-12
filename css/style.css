@@ -1,0 +1,10 @@
+.container-fluid{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
+.container-fluid img{
+    width: 100px;
+}

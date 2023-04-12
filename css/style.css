@@ -8,3 +8,9 @@
 .container-fluid img{
     width: 100px;
 }
+
+.div-2{
+    background-color: blue;
+    padding: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
